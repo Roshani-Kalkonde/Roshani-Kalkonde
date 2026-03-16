@@ -1,8 +1,4 @@
 # Hi there 👋 I'm Roshani Kalkonde
-🎓 MSc in Artificial Intelligence  
-💼 Aspiring Data Scientist | Open to Job Opportunities  
-📊 Passionate about Data, Machine Learning and AI  
-
 ---
 
 ## 🚀 About Me
