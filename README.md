@@ -14,11 +14,9 @@
 ### Programming
 🐍 Python  
 🗄 SQL  
-
 ### Data Analysis
 📊 Excel  
 📈 Power BI  
-
 ### Data Science & AI
 🤖 Machine Learning  
 🧠 Artificial Intelligence  
